@@ -1,0 +1,9 @@
+//crear un proyecto 
+ng new test --createApplication=false
+//generar aplicaion dentro del proyecto vacío
+ng g application apphijo --prefix=apphijo
+
+
+generar el ruting 
+
+ng generate module components/questions --routing

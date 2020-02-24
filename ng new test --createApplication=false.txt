@@ -1,0 +1,3 @@
+ng new test --createApplication=false 
+
+ng g application --prefix=app1
